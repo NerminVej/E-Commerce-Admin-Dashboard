@@ -1,9 +1,7 @@
-import React from 'react'
+"use client";
 
-const toast-provider = () => {
-  return (
-    <div>toast-provider</div>
-  )
-}
+import { Toaster } from "react-hot-toast";
 
-export default toast-provider
+export const ToastProvider = () => {
+  return <Toaster />;
+};

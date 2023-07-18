@@ -10,7 +10,7 @@ This is an E-Commerce Admin Dashboard project built with Next.js, React.js, Type
 ### Login Page
 
 ![[login.png]]
-  
+
 # Dashboard
 
 ![[dashboard.png]]

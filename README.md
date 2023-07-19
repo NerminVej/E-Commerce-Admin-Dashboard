@@ -33,7 +33,7 @@ This is an E-Commerce Admin Dashboard project built with Next.js, React.js, Type
 - Order management: view and manage customer orders
 - User management: add, edit, and delete users
 - Authentication and authorization for admin access
-
+ 
 ## Installation
 
 To run this project locally, follow these steps:

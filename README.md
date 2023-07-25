@@ -7,7 +7,7 @@
  
 This is an E-Commerce Admin Dashboard project built with Next.js, React.js, TypeScript, and Tailwind CSS.
 
-### Login Page 
+### Login Page  
 
 ![[login.png]]
 

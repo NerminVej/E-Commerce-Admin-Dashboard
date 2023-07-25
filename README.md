@@ -6,7 +6,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v2.2.19-blue.svg)](https://tailwindcss.com/)
  
 This is an E-Commerce Admin Dashboard project built with Next.js, React.js, TypeScript, and Tailwind CSS.
-
+ 
 ### Login Page  
 
 ![[login.png]]
